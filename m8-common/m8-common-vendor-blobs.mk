@@ -272,7 +272,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_video_hd.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_video_hd.so \
 	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov12830_p12v01c_zsl.so:system/vendor/lib/libchromatix_skuf_ov12830_p12v01c_zsl.so \
 	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_common.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_common.so \
-	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_default_view.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_default_video.so \
+	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_default_video.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_default_video.so \
 	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_preview.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_preview.so \
 	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_skuf_ov5648_p5v23c_snapshot.so:system/vendor/lib/libchromatix_skuf_ov5648_p5v23c_snapshot.so \
 	vendor/htc/m8-common/proprietary/vendor/lib/libchromatix_vd6869_common.so:system/vendor/lib/libchromatix_vd6869_common.so \
