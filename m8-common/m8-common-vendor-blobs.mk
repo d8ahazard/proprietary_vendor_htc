@@ -168,7 +168,6 @@ vendor/htc/m8-common/proprietary/lib/libcamera_client.so:system/lib/libcamera_cl
 vendor/htc/m8-common/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
 vendor/htc/m8-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
 vendor/htc/m8-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
-vendor/htc/m8-common/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
 vendor/htc/m8-common/proprietary/lib/libeffects.so:system/lib/libeffects.so \
 vendor/htc/m8-common/proprietary/lib/libfilterframework_jni.so:system/lib/libfilterframework_jni.so \
 vendor/htc/m8-common/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
